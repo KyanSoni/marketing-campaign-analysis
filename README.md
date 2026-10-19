@@ -10,6 +10,10 @@
 
 <!-- In the GitHub editor, drag images/slicer_demo.mp4 onto the line below to embed the video -->
 
+
+https://github.com/user-attachments/assets/82bdd4c9-5ae0-4e6c-ba03-3cf875b48770
+
+
 A 30-second walkthrough of the slicers and the sale value slider changing the return. [Download the video](images/slicer_demo.mp4)
 
 ## The problem
